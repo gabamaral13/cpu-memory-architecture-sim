@@ -28,5 +28,5 @@ cd cpu-memory-architecture-sim
 
 3. Run the desired simulation (example for the CPU module):
 ```bash
-python name_of_your_cpu_file.py
+python main.py
 ```
